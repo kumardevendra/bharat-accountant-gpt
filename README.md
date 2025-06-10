@@ -1,34 +1,56 @@
----
-  ## ❓ Your Question: Calculate tax on 20L (2,000,000)
+ ---
+  ## ❓ Your Question: Calculate tax on income of 20L
 
-  ### **Detailed Answers**
+  ### Tax Breakdown for an Income of 20 Lakh INR (IN Financial Year 2023 under New Tax Regime)
 
-  #### **Tax Calculation**
+  * **Income Range:** 15,000,001 - 50,000,000
+    * **Taxable Amount:** 4,999,999.0
+    * **Tax Rate:** 30%
+    * **Surcharge:** 0%
+      * **Tax Amount:** 149,999.7
+        * **Surcharge Amount:** 0.0
+      * **Total:** 149,999.7
 
-  - Based on the provided income of 2,000,000 for financial year 2023 and the old tax regime, here's a breakdown of the calculation:
-    1. The first 300,000 is not taxed as the rate is 0%.
-    2. For the next 499,999 (from 300,001 to 799,999), a tax of 5% is applied, resulting in 19,999.95.
-    3. For the remaining amount of 1,200,000 (800,000+400,000), a tax of 10% is applied, resulting in 29,999.9.
-    4. For the next 200,000 (from 1,200,001 to 1,400,000), a tax of 15% is applied, resulting in 29,999.85.
-    5. The remaining amount of 400,000 (from 1,400,001 to 1,800,000) is subjected to a tax rate of 30%, resulting in 129,999.7.
-   - **Total Tax:** The total tax is the sum of these amounts, which equals 289,999.2.
+  * **Income Range:** 12,000,001 - 15,000,000
+    * **Taxable Amount:** 1,999,999.0
+    * **Tax Rate:** 15%
+    * **Surcharge:** 0%
+      * **Tax Amount:** 29,999.85
+        * **Surcharge Amount:** 0.0
+      * **Total:** 29,999.85
+
+  * **Income Range:** 7,000,001 - 12,000,000
+    * **Taxable Amount:** 2,999,999.0
+    * **Tax Rate:** 10%
+    * **Surcharge:** 0%
+      * **Tax Amount:** 29,999.9
+        * **Surcharge Amount:** 0.0
+      * **Total:** 29,999.9
+
+  * **Income Range:** 3,000,001 - 7,000,000
+    * **Taxable Amount:** 3,999,999.0
+    * **Tax Rate:** 5%
+    * **Surcharge:** 0%
+      * **Tax Amount:** 19,999.95
+        * **Surcharge Amount:** 0.0
+      * **Total:** 19,999.95
+
+  * **Income Range:** 0 - 3,000,000
+    * **Taxable Amount:** 0.0
+    * **Tax Rate:** 0%
+    * **Surcharge:** 0%
+      * **Tax Amount:** 0.0
+        * **Surcharge Amount:** 0.0
+      * **Total:** 0.0
 
   ---
   ## 📝 Summary of Findings
 
-  To summarize, for a financial year 2023 and under the old tax regime, an individual earning 2,000,000 will be subject to a total tax of 289,999.2. The tax calculation considers various rates based on income thresholds.
+  The total tax for an income of 20,00,000 INR in Financial Year 2023 under the New Tax Regime is approximately 2,89,999.20 INR.
 
   ---
-  ## 📊 Comparison (If Required)
+  ## 📊 Comparison: Old Tax Regime vs. New Tax Regime (for Income of 20 Lakh INR)
 
-  | Regime        | Tax Amount    |
-  | :------------|:-------------|
-  | Old          | 289,999.2      |
-  | New          | [Compare using updated tool input for 'new' regime]                   |
-
-  ---
-  ## ✨ Additional Information & Suggestions
-
-  * **Suggestion:** If you need to calculate taxes for different financial years or regimes, feel free to ask again!
-  * **Future Enhancements:** Consider implementing real-time tax tracking for better budgeting and planning.
-  * **Need more help?** Let us know if you have any follow-up questions!
+  | Feature           | Old Tax Regime          | New Tax Regime             |
+  | :---------------- | :--------------------- | :------------------------ |
+  | Total Tax         | ~3,51,876.00 INR          | Approx. 2,89,999.20 INR 
