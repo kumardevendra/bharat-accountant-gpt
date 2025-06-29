@@ -1,56 +1,29 @@
  ---
-  ## ❓ Your Question: Calculate tax on income of 20L
 
-  ### Tax Breakdown for an Income of 20 Lakh INR (IN Financial Year 2023 under New Tax Regime)
+  ## ❓ Your Question: Calculate tax on income of 20 Lacs
 
-  * **Income Range:** 15,000,001 - 50,000,000
-    * **Taxable Amount:** 4,999,999.0
-    * **Tax Rate:** 30%
-    * **Surcharge:** 0%
-      * **Tax Amount:** 149,999.7
-        * **Surcharge Amount:** 0.0
-      * **Total:** 149,999.7
+  We have calculated the taxes based on the provided income and India's current tax slabs. Here are the details.
 
-  * **Income Range:** 12,000,001 - 15,000,000
-    * **Taxable Amount:** 1,999,999.0
-    * **Tax Rate:** 15%
-    * **Surcharge:** 0%
-      * **Tax Amount:** 29,999.85
-        * **Surcharge Amount:** 0.0
-      * **Total:** 29,999.85
+  ### Tax Breakdown
 
-  * **Income Range:** 7,000,001 - 12,000,000
-    * **Taxable Amount:** 2,999,999.0
-    * **Tax Rate:** 10%
-    * **Surcharge:** 0%
-      * **Tax Amount:** 29,999.9
-        * **Surcharge Amount:** 0.0
-      * **Total:** 29,999.9
+  | Slab          | Taxable Amount (Rs.) | Tax Rate (%)| Surcharge (%)| Tax Amount (Rs.) | Surcharge Amount (Rs.) | Total (Rs.) |
+  | :------------ | :-------------------: | :----------: | :-----------: | :--------------: | :-------------: | :---------: |
+  | 0 - 300,000   |                   0.0 |            0.0|             0.0 |               0.0|               0.0     |      0.0        |
+  | 300,001 - 700,000|              399,999.0 |            5.0|             0.0 |              19,999.95|               0.0     |  19,999.95    |
+  | 700,001 - 1,000,000|            299,999.0 |           10.0|             0.0 |              29,999.90|               0.0     |  29,999.90    |
+  | 1,000,001 - 1,200,000|            199,999.0 |           15.0|             0.0 |              29,999.85|               0.0     |  29,999.85    |
+  | 1,200,001 - 1,500,000|            299,999.0 |           20.0|             0.0 |              59,999.80|               0.0     |  59,999.80    |
+  | 1,500,001 - 5,000,000|            499,999.0 |           30.0|             0.0 |              149,999.70|               0.0     |  149,999.70    |
 
-  * **Income Range:** 3,000,001 - 7,000,000
-    * **Taxable Amount:** 3,999,999.0
-    * **Tax Rate:** 5%
-    * **Surcharge:** 0%
-      * **Tax Amount:** 19,999.95
-        * **Surcharge Amount:** 0.0
-      * **Total:** 19,999.95
+  ### Total Tax Calculated
 
-  * **Income Range:** 0 - 3,000,000
-    * **Taxable Amount:** 0.0
-    * **Tax Rate:** 0%
-    * **Surcharge:** 0%
-      * **Tax Amount:** 0.0
-        * **Surcharge Amount:** 0.0
-      * **Total:** 0.0
+  The total tax calculated is: **₹289,999.2**
 
-  ---
-  ## 📝 Summary of Findings
+  ### 📝 Summary of Findings
 
-  The total tax for an income of 20,00,000 INR in Financial Year 2023 under the New Tax Regime is approximately 2,89,999.20 INR.
+  The income provided falls within multiple tax slabs (300,001 - 700,000, 700,001 - 1,000,000, 1,000,001 - 1,200,000, and 1,200,001 - 1,500,000). The total tax calculated is **₹289,999.2**.
 
-  ---
-  ## 📊 Comparison: Old Tax Regime vs. New Tax Regime (for Income of 20 Lakh INR)
+  ### ✨ Additional Information & Suggestions
 
-  | Feature           | Old Tax Regime          | New Tax Regime             |
-  | :---------------- | :--------------------- | :------------------------ |
-  | Total Tax         | ~3,51,876.00 INR          | Approx. 2,89,999.20 INR 
+  * For more detailed information on India's income tax slabs and rates, you can refer to the [Income Tax Department](https://www.incometaxindiaefiling.gov.in/) website.
+  * If you have any further questions or need assistance with calculating taxes for different income levels or scenarios, feel free to ask!
